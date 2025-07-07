@@ -1,6 +1,6 @@
 # EMLE Enzymes Paper
 
-Supporting data for **"Simulating enzyme catalysis with electrostatically embedded machine learning potentials"**.
+Supporting data for [**"Simulating enzyme catalysis with electrostatically embedded machine learning potentials"**](https://chemrxiv.org/engage/chemrxiv/article-details/6862db73c1cb1ecda054fdb9).
 
 ---
 
